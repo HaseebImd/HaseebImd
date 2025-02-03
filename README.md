@@ -1,8 +1,9 @@
-<h1>I'm Haseeb Imdad 😉</h1>
-
-<h3>About</h3>
-
-👋 Hi! I'm a Software Engineer at XOVOLT in Lahore, proficient in Django, React, MERN, and Flutter. I hold a BSCS from NTU, Faisalabad, where I achieved the silver medal, and I'm currently pursuing my MSCS at NTU. My research interests include machine learning, data science, and AI, with a focus on real-time industry applications. I'm also an author of a book chapter on cricket analytics using Python. Outside of work, I aim to become a Full Stack developer and a team lead, while contributing to society through innovative research. 🌟
+<h1>I'm Haseeb Imdad 😉</h1> <br>
+🚀 Software Engineer at XOVOLT <br>
+🌐 Proficient in React & Django | Passionate about learning new technologies <br>
+🤖 Enthusiast in Machine Learning, AI, and Emerging Tech <br>
+🥇 Dual Medalist (Gold in MSCS, Silver in BSCS) from NTU, Faisalabad <br>
+🎓 Lecturer, Department of Computer Science at the University of South Asia <br><br><br>
 
 ![Wave](https://i.gifer.com/1yft.gif)
 <h3 align="left">Languages and Tools:</h3>
