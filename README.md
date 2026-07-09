@@ -5,6 +5,6 @@
 🥇 Dual Medalist (Gold in MSCS, Silver in BSCS) from NTU, Faisalabad <br>
 🎓 Former Lecturer, Department of Computer Science at the University of South Asia <br><br><br>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebimd&" alt="haseebimd" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=haseebimd" alt="haseebimd" />
+</p>
